@@ -1,0 +1,13 @@
+C:\Users\husyn\source\repos\Okey-HD\Okey-HD V.1.1\obj\Debug\netcoreapp3.1\Okey-HD V.1.1.csprojAssemblyReference.cache
+C:\Users\husyn\source\repos\Okey-HD\Okey-HD V.1.1\obj\Debug\netcoreapp3.1\Okey-HD V.1.1.AssemblyInfoInputs.cache
+C:\Users\husyn\source\repos\Okey-HD\Okey-HD V.1.1\obj\Debug\netcoreapp3.1\Okey-HD V.1.1.AssemblyInfo.cs
+C:\Users\husyn\source\repos\Okey-HD\Okey-HD V.1.1\obj\Debug\netcoreapp3.1\Okey-HD V.1.1.csproj.CoreCompileInputs.cache
+C:\Users\husyn\source\repos\Okey-HD\Okey-HD V.1.1\bin\Debug\netcoreapp3.1\Okey-HD V.1.1.exe
+C:\Users\husyn\source\repos\Okey-HD\Okey-HD V.1.1\bin\Debug\netcoreapp3.1\Okey-HD V.1.1.deps.json
+C:\Users\husyn\source\repos\Okey-HD\Okey-HD V.1.1\bin\Debug\netcoreapp3.1\Okey-HD V.1.1.runtimeconfig.json
+C:\Users\husyn\source\repos\Okey-HD\Okey-HD V.1.1\bin\Debug\netcoreapp3.1\Okey-HD V.1.1.runtimeconfig.dev.json
+C:\Users\husyn\source\repos\Okey-HD\Okey-HD V.1.1\bin\Debug\netcoreapp3.1\Okey-HD V.1.1.dll
+C:\Users\husyn\source\repos\Okey-HD\Okey-HD V.1.1\bin\Debug\netcoreapp3.1\Okey-HD V.1.1.pdb
+C:\Users\husyn\source\repos\Okey-HD\Okey-HD V.1.1\obj\Debug\netcoreapp3.1\Okey-HD V.1.1.dll
+C:\Users\husyn\source\repos\Okey-HD\Okey-HD V.1.1\obj\Debug\netcoreapp3.1\Okey-HD V.1.1.pdb
+C:\Users\husyn\source\repos\Okey-HD\Okey-HD V.1.1\obj\Debug\netcoreapp3.1\Okey-HD V.1.1.genruntimeconfig.cache
